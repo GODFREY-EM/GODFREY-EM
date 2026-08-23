@@ -1,5 +1,3 @@
-# Godfrey E.M
-
 > Systems engineer from Tanzania 🇹🇿 · Laravel devotee · I design, build, deploy and operate what I ship.
 
 I build systems worth talking about — property-tech, farm management, a delivery platform, and logistics web apps for courier companies across Tanzania, plus e-commerce storefronts with real paying customers. Everything runs on infrastructure I manage myself. Technology here doesn't stall on frameworks; it stalls when nobody ships the operational half — and my work is proof that world-class systems can be built, hosted and hardened from Tanzania, for Tanzania and the rest of Africa.
@@ -18,8 +16,7 @@ Securing what I build and deploy isn't a chore — it's the fun part. My toolkit
 
 ## 🌍 Open Source
 
-- **Swahili localization for [Bagisto](https://github.com/bagisto/bagisto)** — full framework translation (~9,800 lines), upstreamed via [PR #11439](https://github.com/bagisto/bagisto/pull/11439). Kiswahili speakers deserve first-class software.
-- Moonlighting on **Laravel / Filament admin-panel packages** — in the works.
+I love contributing to and working on open-source projects. Most of what I touch lives in the Laravel and Filament PHP ecosystems — great software, and even better communities. I work with [Bagisto](https://github.com/bagisto/bagisto) for e-commerce and am building my own Laravel admin-panel packages on the side.
 
 ---
 
