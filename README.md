@@ -1,6 +1,8 @@
-> Systems engineer from Tanzania 🇹🇿 · Laravel devotee · I design, build, deploy and operate what I ship.
+> Systems engineer from Tanzania 🇹🇿 · Laravel · Filament · security-first
 
-I build systems worth talking about — property-tech, farm management, a delivery platform, and logistics web apps for courier companies across Tanzania, plus e-commerce storefronts with real paying customers. Everything runs on infrastructure I manage myself. Technology here doesn't stall on frameworks; it stalls when nobody ships the operational half — and my work is proof that world-class systems can be built, hosted and hardened from Tanzania, for Tanzania and the rest of Africa.
+I love technology — exploring how things work under the hood and solving real problems by writing code. I follow Robert C. Martin's school of craftsmanship: clean code, clean architecture. And since 2022 I've gone deep into cybersecurity, because protecting what you build and deploy is genuinely fun — Kali Linux is my playground.
+
+Day to day I build with **[Laravel](https://laravel.com)**, **[Filament PHP](https://filamentphp.com)** and **[Bagisto](https://github.com/bagisto/bagisto)** for e-commerce. Right now I'm working my way through *The Lean Startup*, *Zero to One* and *DotCom Secrets* — preparing to launch my own startup here in Tanzania.
 
 ![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -16,8 +18,8 @@ Securing what I build and deploy isn't a chore — it's the fun part. My toolkit
 
 ## 🌍 Open Source
 
-I love contributing to and working on open-source projects. Most of what I touch lives in the Laravel and Filament PHP ecosystems — great software, and even better communities. I work with [Bagisto](https://github.com/bagisto/bagisto) for e-commerce and am building my own Laravel admin-panel packages on the side.
+I love contributing to and working on open-source projects — most of what I touch lives in the Laravel and Filament PHP ecosystems: great software backed by even better communities. I work with [Bagisto](https://github.com/bagisto/bagisto) for e-commerce.
 
 ---
 
-📫 **godfreymapunda112@gmail.com** — building systems worth talking about.
+📫 **godfreymapunda112@gmail.com**
