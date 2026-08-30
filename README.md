@@ -20,5 +20,3 @@ Securing what I build and deploy isn't a chore — it's the fun part. My toolkit
 
 I love contributing to and working on open-source projects — most of what I touch lives in the Laravel and Filament PHP ecosystems: great software backed by even better communities.
 
----
-
