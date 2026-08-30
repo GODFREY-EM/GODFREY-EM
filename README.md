@@ -1,8 +1,8 @@
-> Systems engineer from Tanzania 🇹🇿 | Laravel | Filament | security-first
+> Software Developer from Tanzania 🇹🇿 | Laravel | Filament
 
-I love technology — exploring how things work under the hood and solving real problems by writing code. I follow Robert C. Martin's school of craftsmanship: clean code, clean architecture. And since 2022 I've gone deep into cybersecurity, because protecting what you build and deploy is genuinely fun — Kali Linux is my playground.
+I love technology — exploring how things work under the hood and solving real problems by writing code. I follow Robert C. Martin's school of craftsmanship: clean code, clean architecture. And since 2021 I've gone deep into cybersecurity and web application development, because protecting what you build and deploy is genuinely fun — Kali Linux is my playground.
 
-Day to day I build with **[Laravel](https://laravel.com)**, **[Filament PHP](https://filamentphp.com)** and **[Bagisto](https://github.com/bagisto/bagisto)** for e-commerce. I'm building my startup, **[parcelflow.co.tz](https://parcelflow.co.tz)** — parcel delivery for Tanzania done properly: verified couriers, live tracking and upfront prices, localized around how Tanzanians actually send things day to day. Reading *The Lean Startup*, *Zero to One* and *DotCom Secrets* along the way.
+Day to day I build with **[Laravel](https://laravel.com)**, **[Filament PHP](https://filamentphp.com)** and **[Bagisto](https://github.com/bagisto/bagisto)** for e-commerce. I'm building my startup, **[parcelflow.co.tz](https://parcelflow.co.tz)** — parcel delivery platform for Tanzania done properly: verified couriers, live tracking and upfront prices, localized around how Tanzanians actually send things day to day. Reading *The Lean Startup*, *Zero to One* and *DotCom Secrets* along the way.
 
 ![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -22,4 +22,3 @@ I love contributing to and working on open-source projects — most of what I to
 
 ---
 
-📫 **godfreymapunda112@gmail.com**
