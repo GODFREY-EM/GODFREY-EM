@@ -10,18 +10,20 @@ I like exploring how things work under the hood, thinking a problem through, and
 
 ### 🛠 Tech I work with
 
-![PHP](https://img.shields.io/badge/PHP_8.3+-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-F97316)
-![Livewire](https://img.shields.io/badge/Livewire-FB50A0?logo=livewire&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-A81D33?logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/php" alt="PHP" title="PHP" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" title="Laravel" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/filament" alt="Filament" title="Filament" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/livewire" alt="Livewire" title="Livewire" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" title="Flutter" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" title="Google Cloud" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" title="Kali Linux" height="40" />&nbsp;&nbsp;
+</p>
 
 - **Backend:** Laravel, PHP, Filament, Livewire, Blade, MVC, REST API design, auth & roles, queues, scheduled jobs
 - **Databases:** PostgreSQL, MySQL, relational schema design, migrations, query optimisation, data isolation in multi-tenant systems
