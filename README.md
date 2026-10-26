@@ -39,8 +39,8 @@ I like exploring how things work under the hood, thinking a problem through, and
 |---|---|---|
 | **[parcelflow](https://parcelflow.co.tz)** | My startup. On-demand parcel delivery for Tanzania: order placement, courier dispatch, live tracking, customer/courier/admin panels, plus a Flutter sender & driver app. Built solo and running in production on GCP. | Laravel, Filament, Livewire, Flutter, GCP |
 | **Nazareth** | Multi-landlord SaaS for property management: properties, units, tenants, leases with two-party e-signature, rent invoicing, maintenance requests, and a tenant portal. One deployment, strict data isolation between landlords. | Laravel, Filament, MySQL |
-| **Meerkat POS** | Point of sale for Tanzanian shops, built on NexoPOS: sales, inventory, customers and reporting. | Laravel, Vue, Tailwind |
-| **E-commerce** | Bagisto-based online stores and headless commerce APIs. | Laravel, Bagisto |
+| **Meerkat** | Point of sale for Tanzanian shops, built on NexoPOS: sales, inventory, customers and reporting. | Laravel, Vue, Tailwind |
+| **Spectral Store** | Bagisto-based online stores and headless commerce APIs. | Laravel, Bagisto |
 
 ---
 
