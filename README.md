@@ -38,11 +38,7 @@ I like exploring how things work under the hood, thinking a problem through, and
 | **[parcelflow](https://parcelflow.co.tz)** | My startup. On-demand parcel delivery for Tanzania: order placement, courier dispatch, live tracking, customer/courier/admin panels, plus a Flutter sender & driver app. Built solo and running in production on GCP. | Laravel, Filament, Livewire, Flutter, GCP |
 | **Nazareth** | Multi-landlord SaaS for property management: properties, units, tenants, leases with two-party e-signature, rent invoicing, maintenance requests, and a tenant portal. One deployment, strict data isolation between landlords. | Laravel, Filament, MySQL |
 | **Meerkat POS** | Point of sale for Tanzanian shops, built on NexoPOS: sales, inventory, customers and reporting. | Laravel, Vue, Tailwind |
-| **JoHerd** | Livestock management for a working farm with ~1,100 animals across 7 species: live headcount, per-cow milk recording, breeding due dates, health records with drug-withdrawal tracking. | Laravel, Filament |
-| **AIFD** | AI fraud detection for banking transactions: Isolation Forest anomaly scoring, risk tiers and SHAP explanations for every flagged transaction. | Python, Django, scikit-learn |
 | **E-commerce** | Bagisto-based online stores and headless commerce APIs. | Laravel, Bagisto |
-
-*Most client and product code is private. Happy to walk through it on a call.*
 
 ---
 
@@ -56,16 +52,14 @@ Securing what I build isn't a chore, it's the fun part. Break into your own syst
 
 ---
 
-### 📚 Background
-
-- 🎓 **BSc Accounting with IT**, Institute of Finance Management (IFM), 2021–2025. I understand the money side of the systems I build.
-- 🧑‍🏫 **Digital Business Program Facilitator** with Reaching The Unreached Tanzania (DOT & Mastercard Foundation): I train MSMEs and young entrepreneurs in Dodoma on digital tools and business systems.
-- 🏛 **ICT Support Intern**, Tanzania Revenue Authority (2021 & 2022): network infrastructure, troubleshooting, security audits.
-
 ### 🌍 Open source
 
-Most of what I touch lives in the Laravel and Filament ecosystems: great software backed by even better communities.
+I contribute to and build on open-source projects in the Laravel ecosystem, where great software is backed by even better communities:
+
+- **[Filament PHP](https://github.com/filamentphp/filament)**: admin panels and app framework for Laravel
+- **[Bagisto](https://github.com/bagisto/bagisto)**: Laravel e-commerce platform
+- **[NexoPOS](https://github.com/Blair2004/NexoPOS)**: Laravel point-of-sale system
 
 ---
 
-📫 **Let's work together:** godfreymapunda112@gmail.com · 🌐 [parcelflow.co.tz](https://parcelflow.co.tz) · 📍 Dodoma, Tanzania (EAT, UTC+3)
+📫 **Let's work together:** godfreymapunda112@gmail.com
