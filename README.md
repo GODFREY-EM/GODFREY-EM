@@ -19,7 +19,6 @@ I like exploring how things work under the hood, thinking a problem through, and
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" title="Flutter" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" title="Google Cloud" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" title="Kali Linux" height="40" />&nbsp;&nbsp;
