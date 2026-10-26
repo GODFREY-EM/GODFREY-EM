@@ -5,7 +5,6 @@
 I like exploring how things work under the hood, thinking a problem through, and then building the solution myself in code. I follow Robert C. Martin's school of craftsmanship (clean code, clean architecture), and since 2021 I've gone deep into cybersecurity, because protecting what you build is part of building it.
 
 **💼 Open to freelance and contract work:** Laravel / PHP apps, Filament admin panels, SaaS & multi-tenant systems, REST APIs, payment integrations, bug fixing on existing PHP codebases, and API security reviews.
-📫 **godfreymapunda112@gmail.com**
 
 ---
 
