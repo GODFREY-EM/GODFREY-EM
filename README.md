@@ -15,6 +15,7 @@ I like exploring how things work under the hood, thinking a problem through, and
 ![Filament](https://img.shields.io/badge/Filament-F97316)
 ![Livewire](https://img.shields.io/badge/Livewire-FB50A0?logo=livewire&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,7 +24,7 @@ I like exploring how things work under the hood, thinking a problem through, and
 ![Kali](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white)
 
 - **Backend:** Laravel, PHP, Filament, Livewire, Blade, MVC, REST API design, auth & roles, queues, scheduled jobs
-- **Databases:** MySQL, relational schema design, migrations, query optimisation, data isolation in multi-tenant systems
+- **Databases:** PostgreSQL, MySQL, relational schema design, migrations, query optimisation, data isolation in multi-tenant systems
 - **Business systems:** payment integration, subscription & recurring billing, SaaS multi-tenancy, logistics & dispatch, POS, property management
 - **Infrastructure:** Google Cloud Platform, Linux server administration, deployments, domains & SSL, backups, monitoring
 - **Security:** OWASP API Top 10, API penetration testing, vulnerability assessment. Toolkit: Burp Suite, OWASP ZAP, Nuclei, Postman
